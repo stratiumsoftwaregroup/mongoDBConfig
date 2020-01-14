@@ -1,0 +1,5 @@
+mongodb/database/rep-db
+mongodb/database/arb-db
+
+mongodb/log/rep-db
+mongodb/log/arb-db

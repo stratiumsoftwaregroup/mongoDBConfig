@@ -1,0 +1,1 @@
+/home/ubuntu/.mongodb/versions/mongodb-current/bin/mongod --replSet "tbm" --dbpath /usr/local/bin/tbm/mongodb/database/rep-db --port 37827

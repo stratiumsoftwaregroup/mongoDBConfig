@@ -1,0 +1,1 @@
+/home/ubuntu/.mongodb/versions/mongodb-current/bin/mongod --dbpath /usr/local/bin/tbm/mongodb/database/mongo-db --port 27017
